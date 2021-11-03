@@ -1,0 +1,40 @@
+@media(max-width: 750px)
+{
+    .header::after{
+        width: 580px;
+        height: 221px;
+  }
+    .header{
+        height: 830px;
+    }
+    .nav_link{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .section_text{
+        Font-size: 60px;
+    Line-height: 70px;
+    }
+    .main_title{
+        margin: 50px;
+
+    }
+    .main{
+
+        padding: 50px 0;
+    }
+    .section_one_titile{
+        margin: 50px;
+            }
+    .all_sezon{
+        margin-bottom: 50px;
+    }
+    .text_2{
+        margin-left: 0px;}
+
+    .section_text{
+        margin: 0;
+    }    
+        
+
+}
